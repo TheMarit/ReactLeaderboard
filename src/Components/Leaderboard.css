@@ -3,6 +3,7 @@
 .leaderBoard{
     width: 80%;
     font-family: 'Montserrat', sans-serif;
+    margin: 30px;
 }
 .header{
     display: flex;
@@ -10,11 +11,13 @@
     color: white;
     background: #768aaf;
     padding: 10px 30px;
-    margin-top: 30px;
     border-radius: 10px 10px 0 0;
-    
+}
+h1{
+    margin: 0;
 }
 table{
     width: 100%;
     background: #D2DFF4;
+    border-radius: 0 0 10px 10px;
 }
