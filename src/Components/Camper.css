@@ -1,3 +1,14 @@
-.points{
+.numbers{
     text-align: center;
+}
+td img{
+    height: 40px;
+    width: 40px;
+    border: 3px solid #354156;
+    border-radius: 5px;
+    margin: 3px 10px;
+}
+td.CamperName{
+    display: flex;
+    align-items: center;
 }
